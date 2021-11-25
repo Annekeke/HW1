@@ -1,0 +1,28 @@
+p{
+    color: slateblue;
+    font-family: cursive;
+}
+
+body{
+    background-color: rgb(240, 210, 158);
+    font-family: cursive;
+}
+
+h1{
+    color: blue;
+    text-decoration: underline;
+  
+}
+
+
+h2{
+    color: darkolivegreen;
+    background-color: floralwhite;
+    text-decoration: underline;
+}
+
+#introduction-ps {
+    font-style: italic;
+    font-size: 10px;
+}
+
