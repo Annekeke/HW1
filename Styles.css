@@ -19,7 +19,11 @@ h2{
     color: darkolivegreen;
     background-color: floralwhite;
     text-decoration: underline;
+   
+    
 }
+
+#foo {color: red ;}
 
 #introduction-ps {
     font-style: italic;
